@@ -9,5 +9,7 @@ Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Creado por mua
+* Incluye un acomentario mas
+* Ele  ya se daño jajajja
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
